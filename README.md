@@ -1,5 +1,5 @@
 # DimeTime-Finance
-Finance site for youth 
+Finance site for youth - front end only
 
 # Inspiration
 
